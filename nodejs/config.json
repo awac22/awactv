@@ -1,0 +1,16 @@
+{
+    "db_hostname": "localhost",
+    "db_username": "anywhere_wp",
+    "db_password": "u6p2psxmJtKI",
+    "db_dbname": "anywhereanycity_film",
+    "site_url": "https:\/\/anywhereanycity.com\/film-tv\/",
+    "server_ip": "162.254.214.128",
+    "server_port": 4545,
+    "amazon": false,
+    "amazon_bucket": null,
+    "nodejs_message_update_interval": 500,
+    "ajax_message_update_interval": 3000,
+    "ssl": false,
+    "ssl_privatekey_full_path": "",
+    "ssl_cert_full_path": ""
+}
